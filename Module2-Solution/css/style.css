@@ -33,7 +33,6 @@ h1 {
 /********* Section text/background align margins padding and style **********/
   
 .section {  
-  clear: margin;
   position: relative;
   color: black;
   background-color: lightgrey;
